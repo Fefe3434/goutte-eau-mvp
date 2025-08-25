@@ -1,0 +1,10 @@
+/__pycache__
+/log
+/logs
+**/__pycache__
+**/log
+**/logs
+.venv
+/venv
+./data/goutte_mvp.sqlite
+./data/model.joblib
